@@ -36,5 +36,8 @@
     
 </div>
 
-
+<!--
+   Tabela para saber as tecnologias que mais utilizo.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miltonngola&hide_progress=true) 
+-->
 
